@@ -66,13 +66,14 @@ This will add the Thala7 tool as a dependency in your project, and you can then 
 <img width="463" alt="Screenshot 2023-12-28 132553" src="https://github.com/MAVRICK-1/Thala/assets/146999057/d09e0f5a-4c8c-43fb-8497-421ab6bc9ee3">
 </div>
 <img width="352" alt="Screenshot 2023-12-28 133040" src="https://github.com/MAVRICK-1/Thala/assets/146999057/c67af65e-767d-452b-90a8-c591a8881491">
-<div>
+
+
 ### Try the game yourself :-) And If you wanna Add or suggest more features you can use the discussion.
    
 
 
 
    
-</div>
+
 
 
