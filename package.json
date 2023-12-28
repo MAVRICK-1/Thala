@@ -1,6 +1,6 @@
 {
   "name": "thala7",
-  "version": "0.1.0",
+  "version": "0.0.6",
   "description": "A Fun CLI Application to check you are Thala fan or not",
   "main": "bin/index.js",
   "type": "module",
