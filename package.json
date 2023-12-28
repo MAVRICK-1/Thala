@@ -1,11 +1,21 @@
 {
   "name": "thala7",
   "version": "0.1.0",
-  "description": "A Fun cli app",
+  "description": "A Fun CLI Application to check you are Thala fan or not",
   "main": "bin/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAVRICK-1/Thala.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "Cli",
+    "thala",
+    "thala7"
+  ],
   "bin": {
     "thala": "./bin/index.js"
   },
@@ -17,5 +27,9 @@
     "figlet": "^1.7.0",
     "gradient-string": "^2.0.2",
     "inquirer": "^9.2.12"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/MAVRICK-1/Thala/issues"
+  },
+  "homepage": "https://github.com/MAVRICK-1/Thala#readme"
 }
