@@ -1,7 +1,7 @@
 # Thala7 CLI Tool
 
-## Using the Thala7 CLI with npx
-To use the Thala7 CLI tool directly , you can use the following command:
+## Using the Thala7 CLI with npx To 
+use the Thala7 CLI tool directly without installing it, you can use  the following command:
 
 ```bash
 npx thala7
