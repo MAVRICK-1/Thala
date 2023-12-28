@@ -1,6 +1,6 @@
 {
   "name": "thala7",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A Fun CLI Application to check you are Thala fan or not",
   "main": "bin/index.js",
   "type": "module",
@@ -14,7 +14,8 @@
   "keywords": [
     "Cli",
     "thala",
-    "thala7"
+    "thala7",
+    "Dhoni"
   ],
   "bin": {
     "thala": "./bin/index.js"

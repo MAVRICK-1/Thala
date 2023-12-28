@@ -130,7 +130,7 @@ async function askName(){
 async function word(){
     const answer = await inquirer.prompt({
         name: 'question_1',
-        message:'Enter the Word : ',
+        message:'Enter the Word/Number : ',
         type:'input'
     })
     return handleAnswer(answer.question_1)
